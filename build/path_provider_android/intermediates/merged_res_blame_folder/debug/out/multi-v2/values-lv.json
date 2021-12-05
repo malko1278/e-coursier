@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "map": [
+                {
+                    "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/path_provider_android/intermediates/merged_res/debug/values-lv/values-lv.xml",
+            "map": [
+                {
+                    "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

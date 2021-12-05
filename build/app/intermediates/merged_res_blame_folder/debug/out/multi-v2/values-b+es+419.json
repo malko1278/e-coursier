@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
+            "map": [
+                {
+                    "source": "/home/franck-malko/.gradle/caches/transforms-3/9beb4c04d12a2e231e2023c3256a6bfc/transformed/jetified-play-services-wallet-18.1.3/res/values-b+es+419/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "208",
+                        "endColumns": "73",
+                        "endOffsets": "281"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}

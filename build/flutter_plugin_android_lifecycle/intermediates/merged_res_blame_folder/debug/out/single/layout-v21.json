@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/flutter_plugin_android_lifecycle/intermediates/merged_res/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/flutter_plugin_android_lifecycle/intermediates/merged_res/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/flutter_plugin_android_lifecycle/intermediates/merged_res/debug/layout-v21/notification_action.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/flutter_plugin_android_lifecycle/intermediates/merged_res/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

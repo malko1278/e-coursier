@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_bg_low.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_bg.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_icon_background.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/franck-malko/.gradle/caches/transforms-3/e60b392af6e3cc898b1095b7c32d8f0f/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

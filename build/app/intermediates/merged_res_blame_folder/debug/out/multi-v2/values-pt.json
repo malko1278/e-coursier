@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/franck-malko/Application/WorkSpace/Android/Kwork Projects/Collaboration/3/Programme/app/social_navig/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/franck-malko/.gradle/caches/transforms-3/53076cdbde4bdb3194c972e45dc4554a/transformed/core-1.2.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

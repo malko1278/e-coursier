@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+ru/tomsk/social_navig/BuildConfig.java
+ ru.tomsk.social_navig.BuildConfig
